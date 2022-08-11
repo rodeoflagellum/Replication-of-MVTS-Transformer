@@ -1,4 +1,6 @@
-# Reproduction of MVTS Transformer
+# Replication of MVTS Transformer
+
+## Original Paper 
 
 Cite the original paper: 
 
@@ -26,4 +28,12 @@ series = {KDD '21}
 For the original paper's code, see <https://github.com/gzerveas/mvts_transformer>.
 
 For the original paper, see <https://arxiv.org/pdf/2010.02803.pdf>.
+
+## Reproduction
+
+From <https://rescience.github.io/faq/>, the difference between a reproduction and replication: 
+
+> Replication of a scientific study (computational or other) means repeating a published protocol, respecting its spirit and intentions but varying the technical details. For computational work, this would mean using different software, running a simulation from different initial conditions, etc. The idea is to change something that everyone believes shouldn’t matter, and see if the scientific conclusions are affected or not.
+> 
+> Reproduction verifies that a computation was recorded with enough detail that it can be analyzed later or by someone else. Replication explores which details matter for reaching a specific scientific conclusion. A replication attempt is most useful if reproducibility has already been verified. Otherwise, if replication fails, leads to different conclusions, you cannot trace back the differences in the results to the underlying code and data.
 
